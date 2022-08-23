@@ -1,0 +1,17 @@
+//Action İsimlerini değişkenlerde tuttğumuz yer.
+
+export const  LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const  LOGIN_ERROR = 'LOGIN_ERROR'
+export const  LOGOUT = 'LOGOUT'
+
+export const GET_PRODUCTS = 'GET_PRODUCTS'
+export const ADD_PRODUCT='ADD_PRODUCT'
+export const UPDATE_PRODUCT='UPDATE_PRODUCT'
+
+export const GET_CATEGORIES = 'GET_CATEGORIES'
+export const ADD_PARENT_CATEGORY='ADD_PARENT_CATEGORY'
+export const UPDATE_PARENT_CATEGORY='UPDATE_PARENT_CATEGORY'
+
+export const GET_SUB_CATEGORIES = 'GET_SUB_CATEGORIES'
+export const ADD_SUB_CATEGORY='ADD_SUB_CATEGORY'
+export const UPDATE_SUB_CATEGORY='UPDATE_SUB_CATEGORY'
